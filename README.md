@@ -76,8 +76,6 @@ These insights empower stakeholders with key business metrics, enabling strategi
 📧 muhamedmustafa9933@icloud.com  
 🌍 [LinkedIn Profile](https://www.linkedin.com/in/mohamedmostafa99/)  
 💻 [GitHub](https://github.com/muhamemustafa99)
-[![LinkedIn](https://www.linkedin.com/in/mohamedmostafa99/)
-[![Website](https://mohamed5034.wordpress.com/about/)
 
 
 🔗My Portfolio:  (https://mohamed5034.wordpress.com/about/)
