@@ -74,11 +74,11 @@ These insights empower stakeholders with key business metrics, enabling strategi
 **Mohamed Mostafa Mogahed**  
 *BI / Data Analyst*  
 📧 muhamedmustafa9933@icloud.com  
-🌍 [LinkedIn Profile](https://www.linkedin.com/in/mohamedmostafa99/)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/mohamedmostafa99/)  
 💻 [GitHub](https://github.com/muhamemustafa99)
 
 
-🔗My Portfolio:  (https://mohamed5034.wordpress.com/about/)
+🌐 My Portfolio:  (https://mohamed5034.wordpress.com/about/)
 
 ---
 
