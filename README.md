@@ -35,6 +35,15 @@ This project involves:
 - Data Analytics  
 
 ---
+## 🛠️ Important Links & Tools:
+
+Everything is for Free!
+- **[Datasets](datasets/):** Access to the project dataset (csv files).
+- **[DrawIO](https://www.drawio.com/):** Design data architecture, models, flows, and diagrams.
+- **[Notion Project Steps](https://www.notion.so/SQL-Data-Warehouse-Project-234b20113fb780419635fb00cc2435f6):**
+
+---
+
 ## 👤 Author
 
 **Mohamed Mostafa Mogahed**  
@@ -45,6 +54,7 @@ This project involves:
 
 
 🔗My Portfolio:  (https://mohamed5034.wordpress.com/about/)
+
 ---
 
 Feel free to fork, explore, or reach out if you're interested in collaboration!
