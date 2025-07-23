@@ -38,7 +38,7 @@ This project involves:
 ## 🛠️ Important Links & Tools:
 
 Everything is for Free!
-- **[Datasets](datasets/):** Access to the project dataset (csv files).
+- **[Datasets](https://github.com/muhamemustafa99/SQL-DWH-project/tree/main/datasets):** Access to the project dataset (csv files).
 - **[DrawIO](https://www.drawio.com/):** Design data architecture, models, flows, and diagrams.
 - **[Notion Project Steps](https://www.notion.so/SQL-Data-Warehouse-Project-234b20113fb780419635fb00cc2435f6):**
 
