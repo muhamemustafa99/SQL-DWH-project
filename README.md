@@ -8,7 +8,7 @@ This project showcases a comprehensive data warehousing and analytics solution, 
 ## 🏗️ Data Architecture
 
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
-<img width="1057" height="602" alt="image" src="https://github.com/user-attachments/assets/72e06ea5-ef19-4a6d-81fe-67a88de03ba0" />
+<img width="1313" height="738" alt="image" src="https://github.com/user-attachments/assets/ec8dc251-b825-4fc6-a31e-32bb5d9aeaa1" />
 
 
  **Bronze Layer**: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
@@ -56,6 +56,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - **Integration**: Combine both sources into a single, user-friendly data model designed for analytical queries.
 - **Scope**: Focus on the latest dataset only; historization of data is not required.
 - **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
+<img width="1183" height="782" alt="image" src="https://github.com/user-attachments/assets/228f649e-7c88-439e-bf66-cd4059d493af" />
 
 ---
 ## BI: Analytics & Reporting (Data Analysis)
