@@ -1,4 +1,4 @@
-# Data Warehouse and Analytics Project
+<img width="1213" height="821" alt="Screenshot 2025-07-29 111845" src="https://github.com/user-attachments/assets/fea2eb3f-f8e6-4436-b5ca-67c83f58bfe7" /># Data Warehouse and Analytics Project
 
 Welcome to the Data Warehouse and Analytics Project repository. 
 This project showcases a comprehensive data warehousing and analytics solution, from constructing a data warehouse to generating actionable insights. This project was designed as a portfolio assignment, and its objective is to highlight industry best practices in data engineering and analytics.
@@ -8,7 +8,7 @@ This project showcases a comprehensive data warehousing and analytics solution, 
 ## 🏗️ Data Architecture
 
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
-![Uploading Screenshot 2025-07-29 111845.png…]()
+<img width="1213" height="821" alt="Screenshot 2025-07-29 111845" src="https://github.com/user-attachments/assets/a441f0c4-f995-4779-a5e4-ad0eaf85dc79" />
 
 
  **Bronze Layer**: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
@@ -56,7 +56,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - **Integration**: Combine both sources into a single, user-friendly data model designed for analytical queries.
 - **Scope**: Focus on the latest dataset only; historization of data is not required.
 - **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
-<img width="1183" height="782" alt="image" src="https://github.com/user-attachments/assets/228f649e-7c88-439e-bf66-cd4059d493af" />
+<img width="1148" height="797" alt="Screenshot 2025-07-29 112441" src="https://github.com/user-attachments/assets/dfb00b57-a9a6-40ee-a28d-8b68cdf50e37" />
 
 ---
 ## BI: Analytics & Reporting (Data Analysis)
